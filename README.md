@@ -1,14 +1,17 @@
-# react-tailwind-portfolio
-
-+ <a href="https://www.youtube.com/watch?v=hYv6BM2fWd8">Design</a>
+# react- myprofile
+# demo : https://myprofile-liard.vercel.app/
 
 + Made with tailwind
+# home
+![image](https://user-images.githubusercontent.com/102303258/235598207-936c182c-c79b-4ab0-96ad-f908342064f2.png)
 
-![Ekran görüntüsü 2023-01-28 221435](https://user-images.githubusercontent.com/104009655/215286744-b85473b0-22cd-4deb-9152-149cad4c90cd.png)
+#skill
 
-![Ekran görüntüsü 2023-01-28 221445](https://user-images.githubusercontent.com/104009655/215286723-3defaee7-09e9-4fc6-8ab4-4d6187ffc001.png)
+![image](https://user-images.githubusercontent.com/102303258/235598372-bc9ec7b8-b726-49fc-92de-70e7890f8d5d.png)
 
-![Ekran görüntüsü 2023-01-28 221901](https://user-images.githubusercontent.com/104009655/215286846-86706df7-37a1-4764-b4b7-6aafa74c2a18.png)
+#contact
+![image](https://user-images.githubusercontent.com/102303258/235598416-5f120ec0-0213-4416-ae20-4cf0b3726db5.png)
 
-![Ekran görüntüsü 2023-01-28 221504](https://user-images.githubusercontent.com/104009655/215286732-3522a344-a21f-4a77-9c8f-dd72ce881288.png)
-# MyProfile
+
+
+
